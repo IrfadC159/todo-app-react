@@ -1,0 +1,44 @@
+.todo-container {
+  background-color: black;
+  border-radius: 2px;
+  padding: 1em;
+  color: white;
+}
+.heading {
+  color: white;
+}
+
+.addTaskContainer {
+  border: 2px solid yellow;
+  margin: 10px;
+  padding: 1em;
+  border-radius: 1em;
+}
+.input-box {
+  padding: 1vb;
+  margin: 20px;
+}
+.task-container {
+  background-color: rgb(79, 79, 168);
+}
+.listTaskContainer {
+  border: 2px solid yellow;
+  margin: 10px;
+  border-radius: 1em;
+  color: white;
+}
+.delete-btn {
+  cursor: pointer;
+  margin: 0.75em;
+  border-radius: 10px;
+  background-color: red;
+}
+.add-btn {
+  cursor: pointer;
+  margin: 1em;
+  border-radius: 10px;
+  background-color: rgb(33, 221, 52);
+}
+.dataTitle {
+  margin: 1em;
+}
